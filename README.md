@@ -21,4 +21,4 @@ I'm a Web Developer. Currently I'm searching a first job opportunity.
 📲 Front-end Mobile with React Native  
 🌎 Front-end Web with Reactjs  
 📡 Back-end with Nodejs  
-🛠️ Typescript and MaterialUI
+🛠️ Typescript 
